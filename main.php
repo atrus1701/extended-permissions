@@ -63,7 +63,7 @@ define( 'EXTENDED_PERMISSIONS_DB_VERSION_OPTION', 'extended-permissions-db-versi
  * The database options key for the Connections Hub options.
  * @var  string
  */
-define( 'CONNECTIONS_HUB_OPTIONS', 'extended-permissions-options' );
+define( 'EXTENDED_PERMISSIONS_OPTIONS', 'extended-permissions-options' );
 
 /**
  * The full path to the log file used to log a synch.
