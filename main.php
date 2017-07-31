@@ -3,9 +3,10 @@
 Plugin Name: Extended Permissions
 Plugin URI: https://github.com/clas-web/extended-permissions
 Description: 
-Version: 0.0.1
+Version: 0.1.1
 Author: Crystal Barton
 Author URI: https://www.linkedin.com/in/crystalbarton
+GitHub Plugin URI: https://github.com/clas-web/extended-permissions
 */
 
 
